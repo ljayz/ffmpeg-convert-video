@@ -1,0 +1,19 @@
+{
+  "name": "ffmpeg-video-converter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ffmpeg-static": "^4.0.1",
+    "glob": "^7.1.6",
+    "ramda": "^0.27.0",
+    "shelljs": "^0.8.3",
+    "upath": "^1.2.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
